@@ -1,2 +1,3 @@
 # bookbot
-A bookbot that analyzes a given book for wordcount an character count.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
